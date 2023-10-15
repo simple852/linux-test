@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>못생긴 HTML 예제</title>
+</head>
+<body>
+    <h1 style="color: pink; text-align: center; font-size: 36px; font-family: 'Comic Sans MS', cursive;">안녕하세요, 이것은 못생긴 제목입니다!</h1>
+    <p style="color: green; font-size: 24px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla luctus rhoncus justo, ac vehicula odio dignissim id.</p>
+    <ul>
+        <li style="text-decoration: underline;">항목 1</li>
+        <li style="text-decoration: line-through;">항목 2</li>
+        <li style="text-decoration: overline;">항목 3</li>
+    </ul>
+    <div style="background-color: yellow; border: 2px dashed purple; padding: 10px; margin: 20px;">
+        <p style="color: red; font-size: 18px;">이것은 못생긴 박스 내의 텍스트입니다.</p>
+    </div>
+</body>
+</html>
